@@ -1,12 +1,12 @@
 body{
-    background-color: rgb(14, 117, 14);
+    background-color: rgb(246, 248, 246);
 }
 .card-body{
     height: 200px;
 }
 
-.alto{
+/*.alto{
     height: 500px;
     background-color: peru;
 
-}
+}*/
